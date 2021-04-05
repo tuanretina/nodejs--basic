@@ -1,0 +1,29 @@
+{
+  "name": "nodejsbasic",
+  "version": "1.0.0",
+  "description": "nodejsbacis",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "nodejsbasic"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanretina/nodejs--basic.git"
+  },
+  "keywords": [
+    "nodejsbasic"
+  ],
+  "author": "theshynh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanretina/nodejs--basic/issues"
+  },
+  "homepage": "https://github.com/tuanretina/nodejs--basic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
